@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "removeComments": true,
+//      "noImplicitAny": true,
+//      "noImplicitUseStrict": true,
+//      "noImplicitReturns": true,
+//      "strictNullChecks": true,
+      "jsx": "react",
+      "lib": ["dom", "es2017"]
+  }
+}
